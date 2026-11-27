@@ -1,0 +1,75 @@
+{
+  "version": 2,
+  "skills": {
+    "backprop": {
+      "source": "JuliusBrussee/cavekit",
+      "commit": "fded8c5ecb3af60e4c818c193f22995503dc540b",
+      "sourceType": "github",
+      "skillPath": "skills/backprop/SKILL.md",
+      "computedHash": "d07b38d1581a873558125623a9cac1ca073f07e0a3a4622b204923327137e3d7"
+    },
+    "build": {
+      "source": "JuliusBrussee/cavekit",
+      "commit": "fded8c5ecb3af60e4c818c193f22995503dc540b",
+      "sourceType": "github",
+      "skillPath": "skills/build/SKILL.md",
+      "computedHash": "2c8a0f58ab53e8d1306581b934e2e463bfd1ba65bc659f311e63d08a1c98e857"
+    },
+    "caveman": {
+      "source": "JuliusBrussee/cavekit",
+      "commit": "fded8c5ecb3af60e4c818c193f22995503dc540b",
+      "sourceType": "github",
+      "skillPath": "skills/caveman/SKILL.md",
+      "computedHash": "e249efd2476e55016e71731b1f95d18c2ec57526682b9cdb2772c243e4ff13de"
+    },
+    "check": {
+      "source": "JuliusBrussee/cavekit",
+      "commit": "fded8c5ecb3af60e4c818c193f22995503dc540b",
+      "sourceType": "github",
+      "skillPath": "skills/check/SKILL.md",
+      "computedHash": "f59d3b5075650f1612e1e662015e9f688501927e545fd3fb0ed5a5f21cc2f46b"
+    },
+    "deepen": {
+      "source": "JuliusBrussee/cavekit",
+      "commit": "fded8c5ecb3af60e4c818c193f22995503dc540b",
+      "sourceType": "github",
+      "skillPath": "skills/deepen/SKILL.md",
+      "computedHash": "1b32feb0ffd687114a52db9b9777ebeadd4de7caa90522d12e852eedfea0149a"
+    },
+    "grill": {
+      "source": "JuliusBrussee/cavekit",
+      "commit": "fded8c5ecb3af60e4c818c193f22995503dc540b",
+      "sourceType": "github",
+      "skillPath": "skills/grill/SKILL.md",
+      "computedHash": "2e5ee58c5880e579d62d87de86ca36aaf00d56b38432b31cbbd31d21453b003d"
+    },
+    "ponytail": {
+      "source": "DietrichGebert/ponytail",
+      "commit": "ebd8654c2c627f721eb8f9c0d1bd4090a29f9e10",
+      "sourceType": "github",
+      "skillPath": "skills/ponytail/SKILL.md",
+      "computedHash": "56d72677aca02689ac89bd48734e8c19b40ab86716d1257eaf5f1238b43cda6b"
+    },
+    "research": {
+      "source": "JuliusBrussee/cavekit",
+      "commit": "fded8c5ecb3af60e4c818c193f22995503dc540b",
+      "sourceType": "github",
+      "skillPath": "skills/research/SKILL.md",
+      "computedHash": "8025e6d3eb076007d3ef88dd6f0801ec15539946d5d873607681b188fd08f0e8"
+    },
+    "review": {
+      "source": "JuliusBrussee/cavekit",
+      "commit": "fded8c5ecb3af60e4c818c193f22995503dc540b",
+      "sourceType": "github",
+      "skillPath": "skills/review/SKILL.md",
+      "computedHash": "e5d1ffa95a5af9869d59ae3df11d0b9fad71b153a9133a5df71797eceae7e525"
+    },
+    "spec": {
+      "source": "JuliusBrussee/cavekit",
+      "commit": "fded8c5ecb3af60e4c818c193f22995503dc540b",
+      "sourceType": "github",
+      "skillPath": "skills/spec/SKILL.md",
+      "computedHash": "14ec4f20d16c1a68d04518ce574654eb4a89669dc5a6c0d119499b0bce12c174"
+    }
+  }
+}
