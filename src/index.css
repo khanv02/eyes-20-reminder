@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: transparent;
+  font-family: "Segoe UI Variable", "Segoe UI", system-ui, -apple-system, sans-serif;
+  color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+}
+
+.dark body {
+  color: #e2e8f0;
+}
+
+/* Popup window is transparent; settings/stats paint their own surface. */
+.window-surface {
+  background: #f8fafc;
+}
+
+.dark .window-surface {
+  background: #0b1220;
+}
+
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(-5px) rotate(-0.6deg);
+  }
+  45% {
+    transform: translateX(5px) rotate(0.6deg);
+  }
+  70% {
+    transform: translateX(-3px);
+  }
+}
